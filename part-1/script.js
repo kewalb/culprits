@@ -95,12 +95,12 @@ console.log("I couldn't figure out");
 }
 
 // 10.Fix the code to welcome the Employee.
-let login = 'Employee';
-let message = (login == 'Employee') ? :
-  (login == 'Director') ? 'Greetings' :
-  (login == '') ? 'No login' :
-  '';
-console.log(message);
+// let login = 'Employee';
+// let message = (login == 'Employee') ? :
+//   (login == 'Director') ? 'Greetings' :
+//   (login == '') ? 'No login' :
+//   '';
+// console.log(message);
 
 // fixed code.
 let login = 'Employee';
